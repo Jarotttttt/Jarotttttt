@@ -6,14 +6,14 @@
   <img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Profile GIF" width="850" style="border-radius: 12px;" />
 </p>
 
-### 🤖 AI Engineer & Automation Specialist
+### AI Engineer & Automation Specialist
 
-I design and build **Autonomous AI Agents**, **Multi-Agent Systems**, and **Large-Scale Web Automation**.  
-Focusing on bridging the gap between cutting-edge LLMs and real-world execution by transforming manual workflows into autonomous, intelligent, and self-healing pipelines.
+I design and build **Autonomous AI Agents**, **Multi-Agent Systems**, and **Large-Scale Web Automation Pipelines**.  
+Focusing on bridging the gap between cutting-edge LLMs and real-world execution by transforming manual workflows into autonomous, intelligent, and self-healing systems.
 
 <br>
 
-## 🌐 Socials:
+## Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Xyura011)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@hacker_ff36)
@@ -22,9 +22,9 @@ Focusing on bridging the gap between cutting-edge LLMs and real-world execution 
 
 <br>
 
-# 💻 Tech Stack:
+# Tech Stack
 
-### 🧠 Artificial Intelligence & LLM Frameworks
+### Artificial Intelligence & LLM Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
@@ -35,7 +35,7 @@ Focusing on bridging the gap between cutting-edge LLMs and real-world execution 
 
 <br>
 
-### 🚀 Full-Stack & Core Languages
+### Full-Stack & Core Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -47,7 +47,7 @@ Focusing on bridging the gap between cutting-edge LLMs and real-world execution 
 
 <br>
 
-### ⚡ Automation, Protocols & Infrastructure
+### Automation, Protocols & Infrastructure
 ![Selenium](https://img.shields.io/badge/SeleniumBase-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![Zapo Engine](https://img.shields.io/badge/Zapo_Engine-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white)
@@ -60,29 +60,29 @@ Focusing on bridging the gap between cutting-edge LLMs and real-world execution 
 
 <br><br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/Jarotttttt/X-BOT">🤖 X-BOT</a></h3>
+      <h3><a href="https://github.com/Jarotttttt/X-BOT">X-BOT</a></h3>
       <p>WhatsApp stealth moderation & reaction-triggered automation bot built on the Zapo framework.</p>
       <code>TypeScript</code> · <code>zapo-js</code> · <code>SQLite</code>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/Jarotttttt/MovieFlow">🎬 MovieFlow AI</a></h3>
+      <h3><a href="https://github.com/Jarotttttt/MovieFlow">MovieFlow AI</a></h3>
       <p>Multi-threaded account automation & workflow suite with CustomTkinter and Selenium stealth.</p>
       <code>Python</code> · <code>CustomTkinter</code> · <code>SeleniumBase</code>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/Jarotttttt/AutoPix">🎥 AutoPix v3.0</a></h3>
+      <h3><a href="https://github.com/Jarotttttt/AutoPix">AutoPix v3.0</a></h3>
       <p>Automated batch video generator & downloader for PixVerse with dynamic account allocation.</p>
       <code>Python</code> · <code>SeleniumBase UC</code> · <code>CustomTkinter</code>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/Jarotttttt/LTZ-Auto-Flow">⚡ LTZ Auto Flow</a></h3>
+      <h3><a href="https://github.com/Jarotttttt/LTZ-Auto-Flow">LTZ Auto Flow</a></h3>
       <p>Chrome Extension (MV3) for batch Text-to-Image creation on Google Flow with live queue.</p>
       <code>JavaScript</code> · <code>Chrome MV3</code> · <code>CDP</code>
     </td>
@@ -91,7 +91,7 @@ Focusing on bridging the gap between cutting-edge LLMs and real-world execution 
 
 <br>
 
-### 📈 My Contribution Graph
+### Contribution Graph
 
 <img src="https://raw.githubusercontent.com/adeeteya/adeeteya/output/snake.svg" alt="Snake Contribution Animation" />
 
@@ -105,6 +105,6 @@ Focusing on bridging the gap between cutting-edge LLMs and real-world execution 
 
 <br>
 
-<b>© 2026 Jarot (Xyuraa) • AI Engineer & Automation Specialist 🚀</b>
+<b>© 2026 Jarot (Xyuraa) • AI Engineer & Automation Specialist</b>
 
 </div>
